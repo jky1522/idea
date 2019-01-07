@@ -1,0 +1,6 @@
+1. 教师机安装：teacher.exe
+安装过程一路使用默认配置
+
+安全完成后，将TeacherMain.exe复制粘贴 替换根目录下的同名文件即可。
+
+2. 学生端安装student.exe
